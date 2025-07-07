@@ -1,0 +1,5 @@
+gunane room() -> dudohno "hallo"
+gunane start() -> dudohno "tilem riyen"
+
+room()
+start()
